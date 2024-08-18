@@ -7,7 +7,8 @@
 💻Tenho experiência em desenvolver com Node.js, Java e bancos de dados relacionais e não relacionais. 
 
 📚Estou formado em Técnico de Desenvolvimento de Sistemas pelo SENAI-FSA.
-📍E atualmente estou cursando Engenharia da Computação Pela UniFan
+
+📍Atualmente estou cursando Engenharia da Computação Pela UniFan.
 
 📈Meu foco está em aprimorar minhas habilidades e contribuir para projetos inovadores, com ênfase em boas práticas de desenvolvimento, segurança e performance.
 
